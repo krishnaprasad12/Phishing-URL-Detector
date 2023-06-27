@@ -1,4 +1,4 @@
-# Web-Mining-J-Component
+# Phishing URL Detector
 
 ## Dataset - https://drive.google.com/drive/folders/15Yr3i7uCbduaSgXfSkssmi2pcMc4NlCo?usp=sharing
 
